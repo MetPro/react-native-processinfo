@@ -11,9 +11,6 @@
   },
   "private": false,
   "author": "Mike Lambert",
-  "files": [
-    "RNProcessInfo/",
-    "index.js"
-  ],
+  "main": "index.js",
   "license": "MIT"
 }
