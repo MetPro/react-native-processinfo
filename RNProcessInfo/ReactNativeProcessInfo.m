@@ -10,4 +10,9 @@ RCT_EXPORT_MODULE()
       @"arguments": [NSProcessInfo processInfo].arguments
     };
 }
+
++ (BOOL)requiresMainQueueSetup
+{
+    return YES;
+}
 @end
